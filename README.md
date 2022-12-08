@@ -31,6 +31,8 @@ This course is designed to be as asynchronous as possible. Videos will be livest
 
 ## Course Materials and Resources
 
+It is recommended that students use a Unix-based operating system, like Linux or MacOS. If using Windows, it should be noted that some of the commands may be different on your machine. The instructor will do their best to address any issues as they arrive.
+
 Students are required to install a few important pieces of software, which are linked here:
 
 - [Python 3.9](https://www.python.org/downloads/)
