@@ -27,7 +27,7 @@ For the sake of planting seeds for future projects, students will also be guided
 
 ## Methodology and Policies
 
-This course is designed to be as asynchronous as possible. Videos will be livestreamed and posted on a video streaming website (platform TBD). Once the videos go live, office hours will be held for those who need specific questions answered. Unless explicitly hese "office hours" will be recorded and livestreamed for the benefit of other students.
+This course is designed to be as asynchronous as possible. Videos will be livestreamed and posted on a video streaming website (platform TBD). Once the videos go live, office hours will be held for those who need specific questions answered. Unless students explicitly ask to not be recorded, these "office hours" will be recorded and livestreamed for the benefit of other students.
 
 ## Course Materials and Resources
 
