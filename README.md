@@ -38,7 +38,7 @@ Students are required to install a few important pieces of software, which are l
 - [Python 3.11](https://www.python.org/downloads/): This is the language of study.
 - [Visual Studio Code](https://code.visualstudio.com/download): A popular and simple code editor.
 
-In-class exercises, as well as take-home exercises, will be hosted in this [Github repository](TODO_include_github). 
+In-class exercises, as well as take-home exercises, will be hosted in this [Github repository](https://github.com/moonstripe/introduction-to-programming-language). 
 
 
 
@@ -48,33 +48,33 @@ In-class exercises, as well as take-home exercises, will be hosted in this [Gith
 
   Covering the absolute basics of why we program, this class is focused on understanding what programming languages are. 
 
-  - [Repository]()
+  - [Repository](https://github.com/moonstripe/introduction-to-programming-language/tree/main/00_introduction_to_programming_language)
   - [Slides](https://docs.google.com/presentation/d/17hKLh53A_JLE-Zls40YYiY5OMow2mZ_8xBmXz_6A4iI/edit?usp=sharing)
 <br/><br/>
 - Tuesday, January 10th: Introduction to Python
 
   Learning Python is often a means to an end, but learning about how to write and read code is far more important than any use-case or product.
 
-  - [Repository]()
+  - [Repository](https://github.com/moonstripe/introduction-to-programming-language/tree/main/01_introduction_to_python)
   - [Slides](https://docs.google.com/presentation/d/1mJ5GvlaCEirSUQnQ8S_l_g8lS34vB1D4LiyomvkxvWI/edit?usp=sharing)
 <br/><br/>
 - Wednesday, January 11th: Web Basics
 
   By discussing the basic rules of the systems that allow us to communicate so effortlessly in the 21st Century, this class focuses on how machines talk to each other.
 
-  - [Repository]()
+  - [Repository](https://github.com/moonstripe/introduction-to-programming-language/tree/main/02_web_basics)
   - [Slides](https://docs.google.com/presentation/d/1AEwQCERGp2ngGncckdH9rGDgNOIAPdDs8C6ZPlfsobQ/edit?usp=share_link)
 <br/><br/>
 - Thursday, January 12th: Scraping Basics
   
   In the age of information, guiding and filtering that endless stream of data is a fascinating and fruitful practice.
 
-  - [Repository]()
+  - [Repository](https://github.com/moonstripe/introduction-to-programming-language/tree/main/03_scraping_basics)
   - [Slides](https://docs.google.com/presentation/d/1nrwOEuPM3Sk2jfZ5M5DQA3MXMdI6BXdmdFQOEqcxooU/edit?usp=sharing)
 <br/><br/>
 - Friday, January 13th: Data and Statistics
   
-  Math magic and graph go brr.
+  Math and graph go brr.
 
-  - [Repository]()
+  - [Repository](https://github.com/moonstripe/introduction-to-programming-language/tree/main/04_data_and_statistics)
   - [Slides](https://docs.google.com/presentation/d/1FsSpmf4rx6oiuP9bMah4gyGi4tIHuJQgmeupN1C1feA/edit?usp=share_link)
