@@ -5,7 +5,7 @@
 -- Unknown, Common Adage
 
 ### Class Sessions:
-- [Livestreaming](https://www.twitch.tv/moonstripestream): TBD
+- [Livestreaming](https://www.twitch.tv/moonstripestream): Monday, January 9,2023 - Friday, January 27, 2023
 - [Video Release](https://www.youtube.com/CTECMIIS): Friday, January 20, 2023
 - [Zoom Office Hours](https://middlebury.zoom.us/j/8424697123?pwd=VWJlbndkWVdNc1hZQ3pERFF2YzJEZz09): 1:00PM – 5:00PM on Monday, January 23, 2023 – Friday, January 27, 2023
 
@@ -27,7 +27,7 @@ For the sake of planting seeds for future projects, students will also be guided
 
 ## Methodology and Policies
 
-This course is designed to be as asynchronous as possible. Videos will be livestreamed and posted on a video streaming website (platform TBD). Once the videos go live, office hours will be held for those who need specific questions answered. Unless students explicitly ask to not be recorded, these "office hours" will be recorded and livestreamed for the benefit of other students.
+This course is designed to be as asynchronous as possible. Videos will be livestreamed and posted on a video streaming website ([YouTube](https://www.youtube.com/playlist?list=PL8pOUmyyjmehqEUiHzhwdus1DpePB4ylW)). Once the videos go live, office hours will be held for those who need specific questions answered. Unless students explicitly ask to not be recorded, these "office hours" will be recorded and livestreamed for the benefit of other students.
 
 ## Course Materials and Resources
 
@@ -35,9 +35,8 @@ It is recommended that students use a Unix-based operating system, like Linux or
 
 Students are required to install a few important pieces of software, which are linked here:
 
-- [Python 3.9](https://www.python.org/downloads/)
-- [Visual Studio Code](https://code.visualstudio.com/download)
-  - Recommended extensions will be provided as they are mentioned.
+- [Python 3.11](https://www.python.org/downloads/): This is the language of study.
+- [Visual Studio Code](https://code.visualstudio.com/download): A popular and simple code editor.
 
 In-class exercises, as well as take-home exercises, will be hosted in this [Github repository](TODO_include_github). 
 
@@ -45,12 +44,37 @@ In-class exercises, as well as take-home exercises, will be hosted in this [Gith
 
 ## Schedule
 
-- TBD: Introduction to Programming Language
-  - Repository
-  - Video
-- TBD: Introduction to Python
-  - Repository
-  - Video
-- TBD: Special Topics
-  - Repository
-  - Video
+- Monday, January 9th: Introduction to Programming Language
+
+  Covering the absolute basics of why we program, this class is focused on understanding what programming languages are. 
+
+  - [Repository]()
+  - [Slides](https://docs.google.com/presentation/d/17hKLh53A_JLE-Zls40YYiY5OMow2mZ_8xBmXz_6A4iI/edit?usp=sharing)
+<br/><br/>
+- Tuesday, January 10th: Introduction to Python
+
+  Learning Python is often a means to an end, but learning about how to write and read code is far more important than any use-case or product.
+
+  - [Repository]()
+  - [Slides](https://docs.google.com/presentation/d/1mJ5GvlaCEirSUQnQ8S_l_g8lS34vB1D4LiyomvkxvWI/edit?usp=sharing)
+<br/><br/>
+- Wednesday, January 11th: Web Basics
+
+  By discussing the basic rules of the systems that allow us to communicate so effortlessly in the 21st Century, this class focuses on how machines talk to each other.
+
+  - [Repository]()
+  - [Slides](https://docs.google.com/presentation/d/1AEwQCERGp2ngGncckdH9rGDgNOIAPdDs8C6ZPlfsobQ/edit?usp=share_link)
+<br/><br/>
+- Thursday, January 12th: Scraping Basics
+  
+  In the age of information, guiding and filtering that endless stream of data is a fascinating and fruitful practice.
+
+  - [Repository]()
+  - [Slides](https://docs.google.com/presentation/d/1nrwOEuPM3Sk2jfZ5M5DQA3MXMdI6BXdmdFQOEqcxooU/edit?usp=sharing)
+<br/><br/>
+- Friday, January 13th: Data and Statistics
+  
+  Math magic and graph go brr.
+
+  - [Repository]()
+  - [Slides](https://docs.google.com/presentation/d/1FsSpmf4rx6oiuP9bMah4gyGi4tIHuJQgmeupN1C1feA/edit?usp=share_link)
