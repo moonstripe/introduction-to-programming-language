@@ -5,3 +5,7 @@ instructor_notes/
 instructor_notes/**
 
 .vscode/**
+
+**/env/
+**/.env
+**/__pycache__/
