@@ -5,7 +5,7 @@
 -- Unknown, Common Adage
 
 ### Class Sessions:
-- [Livestreaming](https://www.twitch.tv/moonstripestream): Monday, January 9,2023 - Friday, January 27, 2023
+- [Livestreaming](https://www.twitch.tv/moonstripestream): Monday, January 9, 2023 - Friday, January 13, 2023
 - [Video Release](https://www.youtube.com/CTECMIIS): Friday, January 20, 2023
 - [Zoom Office Hours](https://middlebury.zoom.us/j/8424697123?pwd=VWJlbndkWVdNc1hZQ3pERFF2YzJEZz09): 1:00PM – 5:00PM on Monday, January 23, 2023 – Friday, January 27, 2023
 
@@ -46,7 +46,7 @@ In-class exercises, as well as take-home exercises, will be hosted in this [Gith
 
 - Monday, January 9th: Introduction to Programming Language
 
-  Covering the absolute basics of how we talk to machines, this class is focused on understanding what programming languages are. 
+  Covering the absolute basics of why we program, this class is focused on understanding what programming languages are. 
 
   - [Repository](https://github.com/moonstripe/introduction-to-programming-language/tree/main/00_introduction_to_programming_language)
   - [Slides](https://docs.google.com/presentation/d/17hKLh53A_JLE-Zls40YYiY5OMow2mZ_8xBmXz_6A4iI/edit?usp=sharing)
