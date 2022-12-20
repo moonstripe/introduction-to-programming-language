@@ -6,6 +6,6 @@ instructor_notes/**
 
 .vscode/**
 
-**/env/
+**/env
 **/.env
 **/__pycache__/
