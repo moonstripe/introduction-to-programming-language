@@ -130,7 +130,7 @@ but collections are the most useful when paired with loops ![width:500px bg righ
 ---
 # Control Flow
 
-control flow is how we direct how programs operate under certain circumstances
+control flow dictates how programs operate under certain circumstances
 
 we can break down the concept of control flow into loops and conditionals
 

@@ -5,7 +5,7 @@
 -- Unknown, Common Adage
 
 ### Class Sessions:
-- [Livestreaming](https://www.twitch.tv/moonstripestream): Monday, January 9, 2023 - Friday, January 13, 2023
+- [Livestreaming](https://middlebury.zoom.us/j/8424697123?pwd=VWJlbndkWVdNc1hZQ3pERFF2YzJEZz09): 10:00AM - 12:00PM on Monday, January 9, 2023 - Friday, January 13, 2023
 - [Video Release](https://www.youtube.com/CTECMIIS): Friday, January 20, 2023
 - [Zoom Office Hours](https://middlebury.zoom.us/j/8424697123?pwd=VWJlbndkWVdNc1hZQ3pERFF2YzJEZz09): 1:00PM – 5:00PM on Monday, January 23, 2023 – Friday, January 27, 2023
 
@@ -38,7 +38,7 @@ Students are required to install a few important pieces of software, which are l
 - [Python 3.11](https://www.python.org/downloads/): This is the language of study.
 - [Visual Studio Code](https://code.visualstudio.com/download): A popular and simple code editor.
 
-In-class exercises, as well as take-home exercises, will be hosted in this [Github repository](https://github.com/moonstripe/introduction-to-programming-language). 
+In-class exercises, as well as take-home exercises, will be hosted in this [Github repository](https://github.com/moonstripe/introduction-to-programming-language). This will necessitate a Github account. Please have one before our first day of classes.
 
 
 
@@ -56,25 +56,21 @@ In-class exercises, as well as take-home exercises, will be hosted in this [Gith
   Learning Python is often a means to an end, but learning about how to write and read code is far more important than any use-case or product.
 
   - [Repository](https://github.com/moonstripe/introduction-to-programming-language/tree/main/01_introduction_to_python)
-  - [Slides](https://docs.google.com/presentation/d/1mJ5GvlaCEirSUQnQ8S_l_g8lS34vB1D4LiyomvkxvWI/edit?usp=sharing)
 <br/><br/>
 - Wednesday, January 11th: Web Basics
 
   By discussing the basic rules of the systems that allow us to communicate so effortlessly in the 21st Century, this class focuses on how machines talk to each other.
 
   - [Repository](https://github.com/moonstripe/introduction-to-programming-language/tree/main/02_web_basics)
-  - [Slides](https://docs.google.com/presentation/d/1AEwQCERGp2ngGncckdH9rGDgNOIAPdDs8C6ZPlfsobQ/edit?usp=share_link)
 <br/><br/>
 - Thursday, January 12th: Scraping Basics
   
   In the age of information, guiding and filtering that endless stream of data is a fascinating and fruitful practice.
 
   - [Repository](https://github.com/moonstripe/introduction-to-programming-language/tree/main/03_scraping_basics)
-  - [Slides](https://docs.google.com/presentation/d/1nrwOEuPM3Sk2jfZ5M5DQA3MXMdI6BXdmdFQOEqcxooU/edit?usp=sharing)
 <br/><br/>
 - Friday, January 13th: Data and Statistics
   
   Math and graph go brr.
 
   - [Repository](https://github.com/moonstripe/introduction-to-programming-language/tree/main/04_data_and_statistics)
-  - [Slides](https://docs.google.com/presentation/d/1FsSpmf4rx6oiuP9bMah4gyGi4tIHuJQgmeupN1C1feA/edit?usp=share_link)

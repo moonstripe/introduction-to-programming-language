@@ -9,3 +9,5 @@ instructor_notes/**
 **/env
 **/.env
 **/__pycache__/
+
+nohup.out
