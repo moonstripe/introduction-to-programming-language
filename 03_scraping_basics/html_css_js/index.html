@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<head>
+    <title>This is HTML!</title>
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+<html>
+<nav id="nav-container">
+    <div id="nav-content">
+        <div>
+            <h1>Welcome to my Homepage</h1>
+            <div style="display: flex; flex-direction: row;">
+                <a style="margin-right: 5%;" href="./about.html" target="_blank" rel="noopener noreferrer">About</a>
+                <a style="margin-right: 5%;" href="https://infosec.exchange/@moonstripe" target="_blank" rel="noopener noreferrer">Mastodon</a>
+                <a style="margin-right: 5%;" href="https://kojinglick.com" target="_blank" rel="noopener noreferrer">Personal</a>
+                <a href="https://moonstripe.com" target="_blank" rel="noopener noreferrer">Professional</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<main class="main-container">
+    <div id="text-content">
+        <div class="main-content">
+            <h4>First Header</h4>
+            <p id="paragraph-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam deleniti sunt culpa debitis
+                alias quisquam quaerat porro illo eaque, rerum tempora aspernatur enim harum, magnam vel molestiae.
+                Obcaecati, eos quae?</p>
+        </div>
+    
+        <div class="main-content">
+            <h4>Second Header</h4>
+            <p id="paragraph-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque neque aliquam cum
+                placeat dignissimos dolorum temporibus saepe eveniet tempora omnis rem repellat repellendus odit blanditiis,
+                accusantium quas voluptatem molestiae ab?</p>
+        </div>
+    </div>
+
+    <div class="main-content" style="width: 20%; padding-right: 30%;">
+        <h4>Subscribe to my newsletter:</h4>
+        <div style="margin-bottom: 1%;">
+            <label>Name: </label>
+            <input class="newsletter-input" name="name" placeholder="name" id="newsletter-name" />
+        </div>
+        <div style="margin-bottom: 1%;">
+            <label>Email: </label>
+            <input class="newsletter-input" name="email" placeholder="email" id="newsletter-email" />
+        </div>
+        <button class="newsletter-button" id="submit">Subscribe</button>
+    </div>
+</main>
+
+</html>
+
+<script defer src="./functionality.js"></script>

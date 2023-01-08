@@ -1,0 +1,44 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: orangered
+}
+
+main {
+    margin-top: 5%
+}
+
+#nav-container {
+    width: 100%;
+}
+
+#nav-content {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.main-container {
+    width: 100%
+}
+
+.main-content {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin: auto
+}
+
+.newsletter-input {
+    width: 100%;
+}
+
+.newsletter-button {
+    width: 50%;
+}
