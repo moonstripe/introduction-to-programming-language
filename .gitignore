@@ -11,3 +11,5 @@ instructor_notes/**
 **/__pycache__/
 
 nohup.out
+
+videos/
