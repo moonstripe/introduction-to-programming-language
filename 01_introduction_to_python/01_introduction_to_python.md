@@ -605,6 +605,5 @@ learning how to use software you haven't written is the most crucial skill you c
 reading documentation, and even understanding source code can help you use software without risk of bugs or security flaws
 
 [SCAMP documentation](http://scamp.marcevanstein.com/scamp.html)
-
 --- 
 

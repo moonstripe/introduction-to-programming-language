@@ -1,6 +1,6 @@
 from scamp import *
 
-SCALE_DICT = {
+MODE_DICT = {
     'minor': ['W', 'H', 'W', 'W', 'H', 'W', 'W'],
     'major': ['W', 'W', 'H', 'W', 'W', 'W', 'H']
 }
@@ -20,29 +20,32 @@ MIDDLE_NOTES = {
     'g_sharp': 68
 }
 
+middle_c_midi = 60
+
 def generate_scale(note: str = "c", mode: str = 'major') -> list:
     """
-        This function generates a scale based on the note and mode
+        This function generates a scale based on the note and mode.
+        takes a note and also a mode.
     """
     scale = []
 
     stepper = MIDDLE_NOTES[note]
 
-    for step in SCALE_DICT[mode]:
+    for step in MODE_DICT[mode]:
         if step == "W":
             scale.append(stepper)
             stepper = stepper + 2
         else:
             scale.append(stepper)
             stepper = stepper + 1
-
+    
     return scale
 
 s = Session()
 
 piano = s.new_part('piano')
 
-c_major = generate_scale('c', 'major')
+c_major = generate_scale()
 
 for note in c_major:
     piano.play_note(note, 1, 1)
